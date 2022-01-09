@@ -13,7 +13,8 @@ An Open Source Rename Telegram RoBot
 #### The Easy Way
 
 **Watch infotel Video for knowing how to Create yoir own Bot** - 👉 https://youtu.be/yYHrSnuYXpA
-
+###Deploy on Railway
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FAmmff%2Frename-bot%2Fblob%2Fmaster%2FProcfile&envs=API_HASH%2CAPP_ID%2CAUTH_USERS%2CBANNED_USERS%2CCHAT_BASE_TOKEN%2CCHUNK_SIZE%2CTG_BOT_TOKEN%2CUSER_NAME%2CWEBHOOK&optionalEnvs=WEBHOOK&API_HASHDesc=Get+this+value+from+https%3A%2F%2Fmy.telegram.org&APP_IDDesc=Get+this+value+from+https%3A%2F%2Fmy.telegram.org&AUTH_USERSDesc=allow+only+pre-defined+users+to+use+this+bot&BANNED_USERSDesc=Banned+Unwanted+members..&CHAT_BASE_TOKENDesc=Your+chat+base+token%2C+as+a+string.&CHUNK_SIZEDesc=chunk+size+that+should+be+used+with+requests&TG_BOT_TOKENDesc=Your+bot+token%2C+as+a+string.&USER_NAMEDesc=Your+user+name+like+%40Ns_AnoNymouS&WEBHOOKDesc=Setting+this+to+ANYTHING+will+enable+webhooks+when+in+env+mode&referralCode=DREM_HAKER)
 ### You can also tap the Deploy To Heroku button below to deploy straight to Heroku!
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/Ammff/rename-bot)
